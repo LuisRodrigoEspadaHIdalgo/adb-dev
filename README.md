@@ -1,2 +1,0 @@
-# adb-dev
-prueba databricks
